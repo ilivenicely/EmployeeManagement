@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listentries">
+        <item>01/01/2017</item>
+        <item>January 1,2017</item>
+        <item>01.01.2017</item>
+    </string-array>
+    <string-array name="listvalues">
+        <item>dd/MM/yyyy</item>
+        <item>MMM dd, yyyy</item>
+        <item>dd.MM.yyyy</item>
+    </string-array>
+
+</resources>

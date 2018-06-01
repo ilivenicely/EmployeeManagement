@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Java2 CE02 Employee Management</string>
+    <string-array name="status">
+        <item>Sort by Number</item>
+        <item>Sort by Status</item>
+    </string-array>
+    <string-array name="order">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+</resources>
